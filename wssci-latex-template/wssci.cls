@@ -58,10 +58,9 @@
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     % These lines should be edited before the new conference
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-    2019 WSSCI Fall Technical Meeting\\%
-    Organized by the Western States Section of the Combustion Institute\\%
-    October 14--15, 2019\\%
-    Albuquerque, New Mexico\par\vspace{\baselineskip}%
+    \meetingyear~\meetingseason~Technical Meeting of the Western States Section of the Combustion Institute\\%
+    \meetingdates\\%
+    \meetinglocation\par\vspace{\baselineskip}%
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     % End editing section
     %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
