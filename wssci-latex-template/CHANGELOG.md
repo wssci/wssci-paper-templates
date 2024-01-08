@@ -13,6 +13,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Removed
 
+## [0.3.2]
+### Changed
+- Changed to extended abstract format
+- Added variables for meeting location and date
+
 ## [0.3.1]
 ### Changed
 - Increased page length to 10 pages
